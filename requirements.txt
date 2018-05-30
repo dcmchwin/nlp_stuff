@@ -1,0 +1,9 @@
+numpy==1.14.3+mkl-cp36-cp36m-win_amd64.whl; sys_platform == "win32"
+numpy==1.14.3; sys_platform == "linux"
+scipy==scipy-1.1.0-cp36-cp36m-win_amd64.whl; sys_platform == "win32"
+scipy==1.1.0; sys_platform == "linux"
+tensorflow
+keras
+matplotlib==2.2.0
+scikit-learn
+jupyter==1.0.0
